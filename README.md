@@ -24,7 +24,6 @@ Trò chơi con rắn Java là một trò chơi giải trí đơn giản, trong �
 * Java [JDK 8+]
 * JDBC
 * MySql 
-
 ## ================= Khởi tạo database =================
 
 * Bước 1: Mở XAMPP Control Panel.
@@ -32,11 +31,18 @@ Trò chơi con rắn Java là một trò chơi giải trí đơn giản, trong �
 * Bước 3: truy cập: http://localhost/phpmyadmin
 * Bước 4: tạo cơ sở dữ liệu có tên là "scores_nhom9_cntt5_k62", tạo bảng tên "scores_nhom9_cntt5_k62" với 2 cột, cột đầu có tên "player_name" với **Type** là **VARCHAR**, cột thứ 2 có tên "score" với **Type** là **INT**
 
-## ========== Import file code vào Eclipse ==========
+## ============== Import file code vào Eclipse ==============
 
 * Bước 1: Mở Eclipse [Install nếu chưa có]
 * Bước 2: Click vào File > Import > Git > Projects From Git > Clone Uri > Copy Url sau vào trường URL: 
 https://github.com/iKyel/SnakeGame_Nhom9_CNTT5 > Chọn master Branch > Next > Next > Finish.
+
+## =============== Hướng dẫn chạy trò chơi ===============
+
+Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải nén tệp
+
+* Bước 1: Mở XAMPP Control Panel, Click "Start" Apache và MySQL.
+* Bước 2: Mở tệp vừa giải nén, chạy file *SnakeGame_Nhom9_CNTT5_K62.jar*
 
 ***
 
