@@ -39,8 +39,8 @@ https://github.com/iKyel/SnakeGame_Nhom9_CNTT5 > Chọn master Branch > Next > N
 
 ## =============== Hướng dẫn chạy trò chơi ===============
 
-Hãy khởi tạo database được trình bày ở bước trên
-Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải nén tệp
+- Hãy khởi tạo database được trình bày ở bước trên
+- Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải nén tệp
 
 * Bước 1: Mở XAMPP Control Panel, Click "Start" Apache và MySQL.
 * Bước 2: Mở tệp vừa giải nén, chạy file *SnakeGame_Nhom9_CNTT5_K62.jar*
