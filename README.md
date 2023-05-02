@@ -32,12 +32,11 @@ Trò chơi con rắn Java là một trò chơi giải trí đơn giản, trong �
 * Bước 3: truy cập: http://localhost/phpmyadmin
 * Bước 4: tạo cơ sở dữ liệu có tên là "scores_nhom9_cntt5_k62", tạo bảng tên "scores_nhom9_cntt5_k62" với 2 cột, cột đầu có tên "player_name" với **Type** là **VARCHAR**, cột thứ 2 có tên "score" với **Type** là **INT**
 
-## ========== Import và Running Project trong Eclipse ==========
+## ========== Import file code vào Eclipse ==========
 
 * Bước 1: Mở Eclipse [Install nếu chưa có]
 * Bước 2: Click vào File > Import > Git > Projects From Git > Clone Uri > Copy Url sau vào trường URL: 
 https://github.com/iKyel/SnakeGame_Nhom9_CNTT5 > Chọn master Branch > Next > Next > Finish.
-* Bước 3: Chạy hàm main trong src/SnakeGame.java
 
 ***
 
