@@ -48,17 +48,17 @@ Chi tiết về bài tập lớn:
 Có hai cách để làm điều này:<br>
 -Cách 1: Các bước thực hiện như sau: New -> Nhập "scores_nhom9_cntt5_k62" trong trường *database name* -> Nhập "scores_nhom9_cntt5_k62" trong trường *Table name* và "2" trong trường "number of column" -> create -> Hàng 1: nhập "player_name" trong trường *Name*, "VARCHAR" trong trường *TYPE*, Hàng 2: nhập "score" trong trường *Name*, "INT" trong trường *TYPE*<br>
 -Cách 2: Chọn mục SQL -> nhập câu lệnh: *CREATE DATABASE scores_nhom9_cntt5_k62;* để tạo database -> go -> nhập tiếp câu lệnh sau:<br>
-USE scores_nhom9_cntt5_k62;<br>
+*USE scores_nhom9_cntt5_k62;<br>
 CREATE TABLE scores_nhom9_cntt5_k62 (<br>
     player_name VARCHAR(255),<br>
     score INT<br>
-);<br>
+)*;<br>
 Sau đó ấn go
 
 
 ## =============== Hướng dẫn chạy trò chơi ===============
- điều cần làm trước tiên:
-* Hãy khởi tạo database được trình bày ở bước trên
+ Điều cần làm trước tiên:
+* Hãy khởi tạo database được trình bày ở bước trên và chắc chắn rằng đã mở *XAMPP Control Panel*, *Apache* và *MySQL* đã được **start**
 ### Cách 1: Chạy bằng code trên Eclipse
 
 * Bước 1: Mở Eclipse [Install nếu chưa có]
@@ -68,8 +68,7 @@ https://github.com/iKyel/SnakeGame_Nhom9_CNTT5 > Chọn master Branch > Next > N
 ### Cách 2: Chạy bằng file được đóng gói
 
 * Bước 1: Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải nén tệp
-* Bước 2: Mở XAMPP Control Panel, Click "Start" Apache và MySQL.
-* Bước 3: Mở tệp vừa giải nén, chạy file *SnakeGame_Nhom9_CNTT5_K62.jar*
+* Bước 2: Mở tệp vừa giải nén, chạy file *SnakeGame_Nhom9_CNTT5_K62.jar*
 
 ***
 
