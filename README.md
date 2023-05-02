@@ -30,6 +30,7 @@ Chi tiết về bài tập lớn:
 * File báo cáo pdf và file jar đóng gói project cùng các tài nguyên cần thiết ở trong mục **Release**. Hãy tải xuống tệp *SnakeGame_CNTT5_Nhom9.rar*
 * Hướng dẫn cài đặt và chạy trò chơi được thực hiện ở bên dưới.
 
+***
 
 ## ================= Khởi tạo database =================
 
