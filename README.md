@@ -43,6 +43,8 @@ Những điều cần làm trước tiên:
 * Hãy khởi tạo database được trình bày ở bước trên
 * Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải nén tệp
 
+Sau khi thực hiện đầy đủ, hãy làm theo các bước sau để chạy trò chơi:
+
 * Bước 1: Mở XAMPP Control Panel, Click "Start" Apache và MySQL.
 * Bước 2: Mở tệp vừa giải nén, chạy file *SnakeGame_Nhom9_CNTT5_K62.jar*
 
