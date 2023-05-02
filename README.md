@@ -44,7 +44,7 @@ Chi tiết về bài tập lớn:
 * Bước 3: truy cập: http://localhost/phpmyadmin
 ![image](https://user-images.githubusercontent.com/111947701/235753825-addfe6bc-af97-423b-b099-d83753865d69.png)
 
-* Bước 4: tạo cơ sở dữ liệu có tên là "scores_nhom9_cntt5_k62", tạo bảng tên "scores_nhom9_cntt5_k62" với 2 cột, cột đầu có tên "player_name" với **Type** là **VARCHAR**, cột thứ 2 có tên "score" với **Type** là **INT**
+* Bước 4: tạo cơ sở dữ liệu có tên là "scores_nhom9_cntt5_k62", tạo bảng tên "scores_nhom9_cntt5_k62" với 2 cột, cột đầu có tên "player_name" với **Type** là **VARCHAR**, cột thứ 2 có tên "score" với **Type** là **INT**\n
 Các bước thực hiện như sau: New -> Nhập "scores_nhom9_cntt5_k62" trong trường *database name* -> Nhập "scores_nhom9_cntt5_k62" trong trường *Table name* và "2" trong trường "number of column" -> create -> Hàng 1: nhập "player_name" trong trường *Name*, "VARCHAR" trong trường *TYPE*, Hàng 2: nhập "score" trong trường *Name*, "INT" trong trường *TYPE*
 
 ## ============== Import file code vào Eclipse ==============
