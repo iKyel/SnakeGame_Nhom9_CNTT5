@@ -45,24 +45,31 @@ Chi tiết về bài tập lớn:
 ![image](https://user-images.githubusercontent.com/111947701/235753825-addfe6bc-af97-423b-b099-d83753865d69.png)
 
 * Bước 4: tạo cơ sở dữ liệu có tên là "scores_nhom9_cntt5_k62", tạo bảng tên "scores_nhom9_cntt5_k62" với 2 cột, cột đầu có tên "player_name" với **Type** là **VARCHAR**, cột thứ 2 có tên "score" với **Type** là **INT**<br>
-Các bước thực hiện như sau: New -> Nhập "scores_nhom9_cntt5_k62" trong trường *database name* -> Nhập "scores_nhom9_cntt5_k62" trong trường *Table name* và "2" trong trường "number of column" -> create -> Hàng 1: nhập "player_name" trong trường *Name*, "VARCHAR" trong trường *TYPE*, Hàng 2: nhập "score" trong trường *Name*, "INT" trong trường *TYPE*
+Có hai cách để làm điều này:<br>
+-Cách 1: Các bước thực hiện như sau: New -> Nhập "scores_nhom9_cntt5_k62" trong trường *database name* -> Nhập "scores_nhom9_cntt5_k62" trong trường *Table name* và "2" trong trường "number of column" -> create -> Hàng 1: nhập "player_name" trong trường *Name*, "VARCHAR" trong trường *TYPE*, Hàng 2: nhập "score" trong trường *Name*, "INT" trong trường *TYPE*<br>
+-Cách 2: Chọn mục SQL -> nhập câu lệnh: *CREATE DATABASE scores_nhom9_cntt5_k62;* để tạo database -> go -> nhập tiếp câu lệnh sau:<br>
+USE scores_nhom9_cntt5_k62;<br>
+CREATE TABLE scores_nhom9_cntt5_k62 (<br>
+    player_name VARCHAR(255),<br>
+    score INT<br>
+);<br>
+Sau đó ấn go
 
-## ============== Import file code vào Eclipse ==============
-
-* Bước 1: Mở Eclipse [Install nếu chưa có]
-* Bước 2: Click vào File > Import > Git > Projects From Git > Clone Uri > Copy Url sau vào trường URL: 
-https://github.com/iKyel/SnakeGame_Nhom9_CNTT5 > Chọn master Branch > Next > Next > Finish.
 
 ## =============== Hướng dẫn chạy trò chơi ===============
-
-Những điều cần làm trước tiên:
+ điều cần làm trước tiên:
 * Hãy khởi tạo database được trình bày ở bước trên
-* Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải nén tệp
+### Cách 1: Chạy bằng code trên Eclipse
 
-Sau khi thực hiện đầy đủ, hãy làm theo các bước sau để chạy trò chơi:
+* Bước 1: Mở Eclipse [Install nếu chưa có]
+* Bước 2: Click vào File > Import > Git > Projects From Git (with smart import) > Clone Uri > Copy Url sau vào trường URL: 
+https://github.com/iKyel/SnakeGame_Nhom9_CNTT5 > Chọn master Branch > Next > Next > Finish.
 
-* Bước 1: Mở XAMPP Control Panel, Click "Start" Apache và MySQL.
-* Bước 2: Mở tệp vừa giải nén, chạy file *SnakeGame_Nhom9_CNTT5_K62.jar*
+### Cách 2: Chạy bằng file được đóng gói
+
+* Bước 1: Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải nén tệp
+* Bước 2: Mở XAMPP Control Panel, Click "Start" Apache và MySQL.
+* Bước 3: Mở tệp vừa giải nén, chạy file *SnakeGame_Nhom9_CNTT5_K62.jar*
 
 ***
 
