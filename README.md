@@ -24,7 +24,7 @@ Trò chơi con rắn Java là một trò chơi giải trí đơn giản, trong �
 * Java [JDK 8+]
 * JDBC
 * MySql 
-## ================== Lời nói đầu ================
+## ==================== Lời nói đầu ==================
 Chi tiết về bài tập lớn: 
 * File code: thực hiện lấy file code bằng cách clone project về Eclipse, được trình bày ở bên dưới.
 * File báo cáo pdf và file jar đóng gói project cùng các tài nguyên cần thiết ở trong mục **Release**. Hãy tải xuống tệp *SnakeGame_CNTT5_Nhom9.rar*
