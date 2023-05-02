@@ -58,7 +58,7 @@ Sau đó ấn go
 
 ## =============== Hướng dẫn chạy trò chơi ===============
  Điều cần làm trước tiên:
-* Hãy khởi tạo database được trình bày ở bước trên và chắc chắn rằng đã mở *XAMPP Control Panel*, *Apache* và *MySQL* đã được **start**
+* Hãy khởi tạo database được trình bày ở bước trên, chắc chắn rằng đã mở *XAMPP Control Panel*, và *Apache* và *MySQL* đã được **start**
 ### Cách 1: Chạy bằng code trên Eclipse
 
 * Bước 1: Mở Eclipse [Install nếu chưa có]
