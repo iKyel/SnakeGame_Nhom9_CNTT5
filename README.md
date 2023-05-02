@@ -61,7 +61,7 @@ Tải tệp *SnakeGame_CNTT5_Nhom9.rar* trong mục **Release** rồi giải né
 ***
 
 ## Lời kết
-* Sản phẩm còn chưa được hoàn thiện, nhóm sẽ cố gắng thuyết phục.
+* Sản phẩm còn chưa được hoàn thiện, nhóm sẽ cố gắng sửa chữa và nâng cấp.
 * Lời cảm ơn chân thành đến sự hướng dẫn của giảng viên.
  
 
