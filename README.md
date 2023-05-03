@@ -70,7 +70,7 @@ https://github.com/iKyel/SnakeGame_Nhom9_CNTT5 > Chọn master Branch > Next > N
 * Bước 3: Click vào project, chuột phải chọn Build Path -> Configure Buid Path
 * Bước 4: Ấn vào thư viện bị lỗi dưới hình chọn Remove
 ![loi1](https://user-images.githubusercontent.com/111947701/235816021-5881b9e1-c451-47c3-a09f-5430cd24d7ad.png)
-* BƯớc 5: Thêm thư viện mysql-connector bằng cách vào Add External JARs -> chọn đường dẫn đến file mysql-connector đã tải về
+* Bước 5: Thêm thư viện mysql-connector bằng cách vào Add External JARs -> chọn đường dẫn đến file mysql-connector đã tải về
 ![loi2](https://user-images.githubusercontent.com/111947701/235816448-59066e97-b2da-45f3-8dac-ef7d315e63bf.png)
 * Bước 6: Chạy hàm main trong src/SnakeGame.java
 
