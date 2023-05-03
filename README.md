@@ -60,8 +60,9 @@ Sau đó ấn go
 ## =============== Hướng dẫn chạy trò chơi ===============
  Điều cần làm trước tiên:
 * Hãy khởi tạo database được trình bày ở bước trên, chắc chắn rằng đã mở *XAMPP Control Panel*, và *Apache* và *MySQL* đã được **start**
-### Cách 1: Chạy bằng code trên Eclipse
 * Hãy tải mysql-connector (tải bằng đường link phía trên hoặc gõ trực tiếp lên google), lưu lại đường dẫn đến tệp trong thư mục
+
+### Cách 1: Chạy bằng code trên Eclipse
 
 * Bước 1: Mở Eclipse [Install nếu chưa có]
 * Bước 2: Click vào File > Import > Git > Projects From Git (with smart import) > Clone Uri > Copy Url sau vào trường URL: 
